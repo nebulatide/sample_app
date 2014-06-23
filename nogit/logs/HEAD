@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 df13c9e7cf217f3fdc94bd9cbae2e4e865e4a1c2 nebulatide <nebulatide@gmail.com> 1402331919 -0400	commit (initial): Initial commit
+df13c9e7cf217f3fdc94bd9cbae2e4e865e4a1c2 eb65fa5d47645365d94603dc55d39ac2c804b4e1 nebulatide <nebulatide@gmail.com> 1402332050 -0400	commit: Modify the README
+eb65fa5d47645365d94603dc55d39ac2c804b4e1 eb65fa5d47645365d94603dc55d39ac2c804b4e1 nebulatide <nebulatide@gmail.com> 1402332837 -0400	checkout: moving from master to static-pages
+eb65fa5d47645365d94603dc55d39ac2c804b4e1 eb65fa5d47645365d94603dc55d39ac2c804b4e1 nebulatide <nebulatide@gmail.com> 1402368049 -0400	checkout: moving from static-pages to static-pages
+eb65fa5d47645365d94603dc55d39ac2c804b4e1 eb65fa5d47645365d94603dc55d39ac2c804b4e1 nebulatide <nebulatide@gmail.com> 1402368072 -0400	checkout: moving from static-pages to static-pages
+eb65fa5d47645365d94603dc55d39ac2c804b4e1 748f21a65a55b475b4c25b131eeeed9e9bdc3c9f nebulatide <nebulatide@gmail.com> 1402369717 -0400	commit: Add a StaticPages controller
+748f21a65a55b475b4c25b131eeeed9e9bdc3c9f 6e5a6aaea81ba2114a4d2cdd1be304f7d46c40dc nebulatide <nebulatide@gmail.com> 1402434170 -0400	commit: Finish static pages
+6e5a6aaea81ba2114a4d2cdd1be304f7d46c40dc eb65fa5d47645365d94603dc55d39ac2c804b4e1 nebulatide <nebulatide@gmail.com> 1402434184 -0400	checkout: moving from static-pages to master
+eb65fa5d47645365d94603dc55d39ac2c804b4e1 6e5a6aaea81ba2114a4d2cdd1be304f7d46c40dc nebulatide <nebulatide@gmail.com> 1402434208 -0400	merge static-pages: Fast-forward
+6e5a6aaea81ba2114a4d2cdd1be304f7d46c40dc f2ceb4a5b16e79fbd70c9323137aa2227376bb2a nebulatide <nebulatide@gmail.com> 1402677900 -0400	commit: Add a full_title helper
+f2ceb4a5b16e79fbd70c9323137aa2227376bb2a f2ceb4a5b16e79fbd70c9323137aa2227376bb2a nebulatide <nebulatide@gmail.com> 1402678207 -0400	checkout: moving from master to filling-in-layout
+f2ceb4a5b16e79fbd70c9323137aa2227376bb2a a02a24d442b61bfd053c800a86a090edc6020688 nebulatide <nebulatide@gmail.com> 1402715859 -0400	commit: CSS styled homepage
+a02a24d442b61bfd053c800a86a090edc6020688 b28b306cb9b82ccff801ffd6033346187f902834 nebulatide <nebulatide@gmail.com> 1402974169 -0400	commit: Finish layout and routes
+b28b306cb9b82ccff801ffd6033346187f902834 f2ceb4a5b16e79fbd70c9323137aa2227376bb2a nebulatide <nebulatide@gmail.com> 1402974176 -0400	checkout: moving from filling-in-layout to master
+f2ceb4a5b16e79fbd70c9323137aa2227376bb2a b28b306cb9b82ccff801ffd6033346187f902834 nebulatide <nebulatide@gmail.com> 1402974188 -0400	merge filling-in-layout: Fast-forward
+b28b306cb9b82ccff801ffd6033346187f902834 4b735f96c16fec57a04fc46a3d46781d9b1c3bea nebulatide <nebulatide@gmail.com> 1403145095 -0400	commit: for using CODESHIP AWS MapElastic
+4b735f96c16fec57a04fc46a3d46781d9b1c3bea 480064c9d44978b889b8b77f386302eb78560265 nebulatide <nebulatide@gmail.com> 1403226614 -0400	commit: Make a basic User model (including secure passwords)
+480064c9d44978b889b8b77f386302eb78560265 480064c9d44978b889b8b77f386302eb78560265 nebulatide <nebulatide@gmail.com> 1403226633 -0400	checkout: moving from master to master
+480064c9d44978b889b8b77f386302eb78560265 480064c9d44978b889b8b77f386302eb78560265 nebulatide <nebulatide@gmail.com> 1403226943 -0400	checkout: moving from master to sign-up
+480064c9d44978b889b8b77f386302eb78560265 0b12c7b01a23df21160341d3ccea894ca6cea518 nebulatide <nebulatide@gmail.com> 1403416672 -0400	commit: Finish user signup
+0b12c7b01a23df21160341d3ccea894ca6cea518 480064c9d44978b889b8b77f386302eb78560265 nebulatide <nebulatide@gmail.com> 1403416693 -0400	checkout: moving from sign-up to master
+480064c9d44978b889b8b77f386302eb78560265 0b12c7b01a23df21160341d3ccea894ca6cea518 nebulatide <nebulatide@gmail.com> 1403416701 -0400	merge sign-up: Fast-forward
+0b12c7b01a23df21160341d3ccea894ca6cea518 3217f72ae974d1ac6ea6dfc2b89de7bc47ad0338 nebulatide <nebulatide@gmail.com> 1403416950 -0400	commit: Add SSL in production
+3217f72ae974d1ac6ea6dfc2b89de7bc47ad0338 b530e42fe585613da526d20c3081413bc3cf55aa nebulatide <nebulatide@gmail.com> 1403418701 -0400	commit: Using Better Secret_Token Management for Rails by Brian Hays instead of The Tutorial
+b530e42fe585613da526d20c3081413bc3cf55aa b6d485766f6ddf3e1f44fe1c0bd91cea79d2f008 nebulatide <nebulatide@gmail.com> 1403419613 -0400	commit: secret token change
+b6d485766f6ddf3e1f44fe1c0bd91cea79d2f008 ff131d4ffd1c61821bec25602348435d04394450 nebulatide <nebulatide@gmail.com> 1403420323 -0400	commit: retry update secret token
+ff131d4ffd1c61821bec25602348435d04394450 c6b119658e9ccf74f2c7d4b2d19c4054a6f8047b nebulatide <nebulatide@gmail.com> 1403469305 -0400	commit: try token as demo_app
+c6b119658e9ccf74f2c7d4b2d19c4054a6f8047b e53819ec850deb73770d2b1ce88075f2916598ba nebulatide <nebulatide@gmail.com> 1403489230 -0400	commit: lala
+e53819ec850deb73770d2b1ce88075f2916598ba 9547e20cc6ad4dbc2fef1984de2702379b4b8edc nebulatide <nebulatide@gmail.com> 1403489577 -0400	commit: try
+9547e20cc6ad4dbc2fef1984de2702379b4b8edc 1ff98e6c98f6c1de3f327ff155efb44a0c71e1e9 nebulatide <nebulatide@gmail.com> 1403490020 -0400	commit: retry
+1ff98e6c98f6c1de3f327ff155efb44a0c71e1e9 3217f72ae974d1ac6ea6dfc2b89de7bc47ad0338 nebulatide <nebulatide@gmail.com> 1403492550 -0400	checkout: moving from master to 3217f72ae974d1ac6ea6dfc2b89de7bc47ad0338
+3217f72ae974d1ac6ea6dfc2b89de7bc47ad0338 ff86c1f963d80c4b8ae6ba4f2dee5600680e2396 nebulatide <nebulatide@gmail.com> 1403495198 -0400	commit: fix submodule in config/initializers problem
+ff86c1f963d80c4b8ae6ba4f2dee5600680e2396 682061966190dad5366533af9d8abc3b3a8a8f77 nebulatide <nebulatide@gmail.com> 1403541011 -0400	commit: delete initializer
+682061966190dad5366533af9d8abc3b3a8a8f77 2581eacc4705a872f2a11eff999c37323899f09c nebulatide <nebulatide@gmail.com> 1403543013 -0400	commit: l

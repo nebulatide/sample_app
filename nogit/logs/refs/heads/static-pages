@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 eb65fa5d47645365d94603dc55d39ac2c804b4e1 nebulatide <nebulatide@gmail.com> 1402332837 -0400	branch: Created from HEAD
+eb65fa5d47645365d94603dc55d39ac2c804b4e1 748f21a65a55b475b4c25b131eeeed9e9bdc3c9f nebulatide <nebulatide@gmail.com> 1402369717 -0400	commit: Add a StaticPages controller
+748f21a65a55b475b4c25b131eeeed9e9bdc3c9f 6e5a6aaea81ba2114a4d2cdd1be304f7d46c40dc nebulatide <nebulatide@gmail.com> 1402434170 -0400	commit: Finish static pages
