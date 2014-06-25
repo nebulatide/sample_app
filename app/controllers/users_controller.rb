@@ -10,7 +10,8 @@ class UsersController < ApplicationController
   def create
     @user = User.new(user_params)
     if @user.save
-      flash[:success] = "Welcome to our Online Trading System! "
+      sign_in @user
+      flash[:success] = "Welcome to InTrading System! "
       # Handle a successful save.
       redirect_to @user
     else
